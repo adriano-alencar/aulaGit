@@ -4,7 +4,7 @@ Descrição inicial do meu read me
 
 ## SUBTITULO
 
-blablabla
+Este é o testo do meu subtitulo e nao esta formatad
 
 ## Para que serve este arquivo
 
