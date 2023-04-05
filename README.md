@@ -8,4 +8,4 @@ blablabla
 
 ## Para que serve este arquivo
 
-serve para qualquer coisa
+serve para descrever as funcionalidades do software, oque faz como faz etc
